@@ -5,42 +5,42 @@
 
 
 
-
 ## Provider for reliable and secure:
 
-- [Air & Ground](Secure Data Link)
-- [Live](Streaming Video)
-- [State of the Art](Control Interface)
-- [System](Interoperability)
-- [Antenna](Tracking)
-- [Video Management](System)
-- [Network Video](Server)
-- [Aircraft to Personnel](ideo Distribution)
+- Air & Ground Secure Data Link
+- Live Streaming Video
+- State of the Art Control Interface
+- System Interoperability
+- Antenna Tracking
+- Video Management System 
+- Network Video Server
+- Aircraft to Personnel Video Distribution 
+
+Platforms Supported: 
+
+[![Platforms Supported](https://img.shields.io/conda/pn/conda-forge/python.svg?style=plastic)](https://img.shields.io/conda/pn/conda-forge/python.svg?style=plastic)
 
 
+## Clients
 
+Military Command, Control, Communications, Computers, Intelligence, and Interoperability
 
-## Serving
+Government Intelligence, Surveillance, and Reconnaissance
 
-[Military][Command, Control, Communications, Computers, Intelligence, and Interoperability]
+News and Broadcast Electronic News Gathering
 
-[Government][Intelligence, Surveillance, and Reconnaissance]
-
-[News and Broadcast][Electronic News Gathering]
-
-[Private Sector][Multiple Use Airborne Data Link]
+Private Sector Multiple Use Airborne Data Link
 
 
 ### Features
 
-[!](adaptive bit rate)
-[!](scalable video and control coverage)
-[!](adaptive bit rate streaming video)
-[!](klv metadata video overlay)
-[!](passwordless login)
-[!](company portal)
-[!](asana integration)
-[encoder](read and parse sensor and aircraft telemetry into KLV metadata)
-[controller](linux arm platform)
-[controller](Near Field Comm device configuration and data swap)
-[controller](NFC device configuration and data swap)
+![]adaptive bit rate
+![]scalable video and control coverage
+![]adaptive bit rate streaming video
+![]klv metadata video overlay
+![]passwordless login
+![]company portal
+![]asana integration
+![]encoder - read and parse sensor and aircraft telemetry into KLV metadata
+![]controller - linux arm platform
+![]controller - NFC device configuration and data swap
