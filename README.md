@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Defcast
 
-You can use the [editor on GitHub](https://github.com/defcast/defcast/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![defcast status](https://img.shields.io/badge/defcast-live-green.svg?style=plastic)][live]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Defcast is a provider for reliable and secure:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Air & Ground](Secure Data)[Link]
+- [Live](Streaming Video)[Solutions]
+- [State of the Art](Control)[Interface]
+- [System] [Interoperability]
+- [Antenna] [Tracking]
+- [Video](Management)[System]
+- [Network](Video)[Server]
+- [Aircraft to Personnel](Video)[Distribution]
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Serving
 
-- Bulleted
-- List
+[Military][Command, Control, Communications, Computers, Intelligence, and Interoperability]
 
-1. Numbered
-2. List
+[Government][Intelligence, Surveillance, and Reconnaissance]
 
-**Bold** and _Italic_ and `Code` text
+[News and Broadcast][Electronic News Gathering]
 
-[Link](url) and ![Image](src)
-```
+[Private Sector][Multiple Use Airborne Data Link]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Features
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/defcast/defcast/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[site][adaptive bit rate streaming video]
+[site][scalable video and control coverage]
+[site][adaptive bit rate streaming video]
+[site][klv metadata video overlay]
+[site][passwordless login]
+[site][company portal]
+[site][asana integration]
+[site]()[passwordless login]
+[encoder][read and parse sensor and aircraft telemetry into KLV metadata]
+[controller][linux arm p]
