@@ -1,7 +1,7 @@
 # Defcast
 
 
-[![defcast status](https://img.shields.io/badge/defcast-live-green.svg?style=plastic)][live]
+![](https://img.shields.io/badge/defcast-live-green.svg?style=plastic)
 
 
 
@@ -43,4 +43,4 @@
 [encoder][read and parse sensor and aircraft telemetry into KLV metadata]
 [controller][linux arm platform]
 [controller][Near Field Comm device configuration and data swap]
-controller][NearFieldComm device configuration and data swap]
+[controller][NFC device configuration and data swap]
