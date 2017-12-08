@@ -34,13 +34,22 @@ Private Sector Multiple Use Airborne Data Link
 
 ### Features
 
-![]adaptive bit rate
-![]scalable video and control coverage
-![]adaptive bit rate streaming video
-![]klv metadata video overlay
-![]passwordless login
-![]company portal
-![]asana integration
-![]encoder - read and parse sensor and aircraft telemetry into KLV metadata
-![]controller - linux arm platform
-![]controller - NFC device configuration and data swap
+- adaptive bit rate
+- scalable video and control coverage
+- airborne and mobile ground antenna tracking
+- video and data encapsulation over encrypted bidrectional mircrowave network
+- digital RF sampling
+- spectrum viewer
+- UHF, L, C, S, and Ku Bands
+- coded orthogonal frequency division multiplexing
+- predictive flight path tracking algorithm
+- real-time data link diagnostics and intelligent automated error reporting
+- open security encyrption and ciphers
+- klv metadata video overlay
+- passwordless login
+- company portal
+- asana integration
+- sensor and aircraft telemetry streamed as KLV metadata
+- linux arm platform
+- NFC device configuration and data swap
+- archived video, control data, telemetry, and network metadata give a complete picture of each mission from all angles
