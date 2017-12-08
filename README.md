@@ -8,14 +8,14 @@
 
 ## Provider for reliable and secure:
 
-- [Air & Ground](Secure Data)[Link]
-- [Live](Streaming Video)[Solutions]
-- [State of the Art](Control)[Interface]
+- [Air & Ground] [Secure Data Link]
+- [Live] [Streaming Video]
+- [State of the Art] [Control Interface]
 - [System] [Interoperability]
 - [Antenna] [Tracking]
-- [Video](Management)[System]
-- [Network](Video)[Server]
-- [Aircraft to Personnel](Video)[Distribution]
+- [Video Management] [System]
+- [Network Video] [Server]
+- [Aircraft to Personnel] [Video Distribution]
 
 
 
