@@ -1,9 +1,12 @@
 # Defcast
 
+
 [![defcast status](https://img.shields.io/badge/defcast-live-green.svg?style=plastic)][live]
 
 
-# Defcast is a provider for reliable and secure:
+
+
+## Provider for reliable and secure:
 
 - [Air & Ground](Secure Data)[Link]
 - [Live](Streaming Video)[Solutions]
@@ -15,7 +18,9 @@
 - [Aircraft to Personnel](Video)[Distribution]
 
 
-# Serving
+
+
+## Serving
 
 [Military][Command, Control, Communications, Computers, Intelligence, and Interoperability]
 
@@ -26,15 +31,16 @@
 [Private Sector][Multiple Use Airborne Data Link]
 
 
-# Features
+### Features
 
-[site][adaptive bit rate streaming video]
+[site][adaptive bit rate]
 [site][scalable video and control coverage]
 [site][adaptive bit rate streaming video]
 [site][klv metadata video overlay]
 [site][passwordless login]
 [site][company portal]
 [site][asana integration]
-[site]()[passwordless login]
 [encoder][read and parse sensor and aircraft telemetry into KLV metadata]
-[controller][linux arm p]
+[controller][linux arm platform]
+[controller][Near Field Comm device configuration and data swap]
+controller][NearFieldComm device configuration and data swap]
